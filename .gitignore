@@ -1,0 +1,4 @@
+# Local Agent Skills installation artifacts
+/.agents/
+/.claude/
+/skills-lock.json
