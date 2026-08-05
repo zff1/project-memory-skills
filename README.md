@@ -39,17 +39,6 @@ npx skills add zff1/project-memory-skills \
   --yes
 ```
 
-如果希望所有项目都能使用，可以增加 `--global`：
-
-```bash
-npx skills add zff1/project-memory-skills \
-  --skill topic-open \
-  --skill topic-save \
-  --agent '*' \
-  --global \
-  --yes
-```
-
 > [!TIP]
 > 推荐项目级安装。这样 Skill 的使用约定和项目本身绑定，团队成员也能在项目配置中看到这套工作流。
 
